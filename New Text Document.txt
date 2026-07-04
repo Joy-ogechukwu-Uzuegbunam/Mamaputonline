@@ -1,0 +1,147 @@
+First set of Prompt
+
+I am new at software development. I just founded an online food business and I want to build a landing page for an online take-away Nigerian cooked meal restaurant.
+
+I want you to help me build;
+1. A responsive navigation menu with a dark blue background.
+2. Design a logo for the mamaputonline and place it on the top - left corner of the navigation bar.
+3. Ensure to make the logo to be properly aligned vertically and has enough spacing from the edges of the screen.
+4. Ensure the size of the logo does not interfere with the navigation menu.
+5. The menu bar should contain the following;
+- Products
+- Services 
+- Customer Services
+- Contact us
+
+6. Each menu item should contain a dropdown menu with submenu items. The navigation menu should be centered horizontally inside the menu bar.
+7. Make the mobile screen dropdowns to open when click
+8. Include a hamburger menu icon for mobile device.
+9. When clicked the hamburger menu should smoothly reveal the navigation links. Add smooth transitions and hover effects.
+10. Kindly build it using HTML and CSS. Do not use inline styling for CSS.
+11. Use VS Code as the IDE.
+12. Ensure that the design is modern and attractive for an online food delivery business. Use attractive colors
+13. Add a modern rounded search bar to the top -right side of the navigation bar. The search bar should contain a search icon and a place holder text that says "Search Various food"
+14. Kindly insert comments in your code so that my team members will be able to interpret and understand your code a lot faster.
+15. Make the navigation bar responsive on mobile, tablet and desktop screens
+
+Second Sets of Prompts
+
+1.Please, create a hero section for the Mamaputonline landing page that should occupy at least 30% of the vertical length of the page and 100% of the breadth of page.
+2. Use an attractive and matching background color suitable for a food delivery business.
+3. Partition the Hero Section into two section vertically;
+
+Left Section should contain:
+- A boldly - written words in large print lettering inviting people not to miss the opportunity to buy from my restaurant 
+- "Order Now" button 
+
+Right Section:
+- A picture of a steaming, deliciously cooked Nigeria dish/soup.
+- Ensure it has the right aspect ratio and the right pixelization.
+4. Please ensure that both sections are properly aligned and responsive.
+5. Add smooth spacing, soft shadows, rounded corners and modern typography to the hero section.
+6. Make the design appetizing, clean and attractive to people looking for good food to eat
+7. Kindly remember to build it using HTML and CSS. Do not use inline styling for CSS
+8. Use VS Code as the IDE
+9. Kindly remember to insert comments in your code so that my team members will be able to interpret and understand your code a lot faster.
+10. Make the navigation bar responsive on mobile, tablet and desktop screens.
+
+Third Sets of Prompt
+
+for my mamaputonline online take-away Nigerian cooked meal restaurant, create a vertical sidebar navigation panel on the left hand side of the landing page below the navigation bar.
+2. The side bar should contain clickable stacked links, that will connect users to the main section/product card
+
+Fourth Sets of Prompt
+
+1. Create four rows on the landing page of my mamaputonline restaurant on the right hand panel.
+2. Make each row to have at least 5 product cards. 
+3. The product cards should:
+- Identify the product boldly
+- The product image
+- The product Name
+-The quality  
+- The price in Naira
+- "Add to Cart button"
+4. Style all product cards with soft shadows, rounded corners, hover animations, spacing and modern responsive grid layout.
+5. Use bright attractive colors while maintaining a professional online take-away Nigerian cooked meal restaurant appearance.
+
+fifth Sets of prompts
+
+
+Create a professional footer section for my MamaputOnline restaurant. 
+
+1. Make it have the following features 
+ 
+   - Mamaputonline logo 
+   - About Us
+   - Quick Links
+   - Contact Information
+   - Social Media Icons
+   - Copyright Notice
+2. Use a dark background.
+3. Add hover effects.
+4. Use modern typography.
+5. Build using HTML and CSS only.
+6. Make it fully responsive.
+7. Insert comments throughout the code.
+
+
+Six Sets of Prompt
+
+Create a Delivery Coverage section for my MamaputOnline restaurant.
+
+Requirements:
+
+1. Add a heading titled "Areas We Deliver To".
+2. Display delivery locations in attractive cards.
+3. Include delivery times.
+4. Add location icons.
+5. Use a modern responsive layout.
+6. Use attractive food-themed colors.
+7. Build using HTML and CSS only.
+8. Insert comments throughout the code.
+
+
+Seventh Sets of Prompt
+
+Create a customer testimonials section for my MamaputOnline restaurant.
+Requirements:
+
+1. Add a section heading.
+2. Display 3 testimonial cards.
+3. Each card should contain:
+   - Customer photo
+   - Customer name
+   - Star rating
+   - Testimonial text
+4. Add soft shadows and rounded corners.
+5. Use modern typography.
+6. Add hover effects.
+7. Build using HTML and CSS.
+8. Make it fully responsive.
+9. Insert comments throughout the code.
+
+
+Eight Sets of Prompt
+
+Create a modern "Why Choose MamaputOnline" section.
+Requirements:
+
+1. Display four feature cards:
+   - Fast Delivery
+   - Fresh Ingredients
+   - Affordable Prices
+   - Secure Payments
+2. Each card should contain:
+   - Icon
+   - Title
+   - Description
+3. Use modern card design.
+4. Add hover animations.
+5. Use attractive colors.
+6. Use HTML and CSS only.
+7. Insert comments throughout the code.
+8. Make it fully responsive.
+
+
+
+
